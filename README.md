@@ -19,7 +19,7 @@ I present this dancing shark in trying times.</br>
 </p>
 - 😪 I do what I manage to find the time and drive for. (✿◠‿◠) </br>
 - 💪 If it ain't fast and static I don't want it. ( ˘︹˘ ) </br>
-- 🖥️ Specs: AMD Ryzen 2700X, NVIDIA GTX 1080ti, CORSAIR - Vengeance RGB PRO 16GB, Gigabyte X470 AORUS ULTRA GAMING (rev. 1.0) ✍(◔◡◔) </br>
+- 🖥️ Specs: AMD Ryzen 2700X, NVIDIA GTX 1080ti, CORSAIR - Vengeance RGB PRO 16GB, Gigabyte X470 AORUS ULTRA GAMING (rev. 1.0) ✍(◔◡◔) </br></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waifushork&langs_count=4&theme=radical)](https://github.com/waifushork/github-readme-stats)
 ![WaifuShork's github stats](https://github-readme-stats.vercel.app/api?username=WaifuShork&theme=radical&show_icons=true)
