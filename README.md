@@ -1,3 +1,25 @@
-<h1 align="center"> Hey there. I'm WaifuShork</h1> 
+<h1 align="center">👋 Hey there. I'm WaifuShork </br></h1> 
 
-![WaifuShork's github stats](https://github-readme-stats.vercel.app/api?username=WaifuShork&theme=nightowl&show_icons=true)
+<p align="center">
+	<a href="https://discord.gg/3qAtRfp">
+	    <img src="https://img.shields.io/badge/Add%20Me%20On%20Discord-7289DA?logoColor=white&logo=discord&style=for-the-badge&&logoWidth=30" />
+	</a>
+	<a href="https://steamcommunity.com/id/waifushork/">
+	    <img src="https://img.shields.io/badge/Add%20Me%20On%20Steam-333333?logoColor=white&logo=steam&style=for-the-badge&&logoWidth=30" />
+	</a>
+    <a href="https://www.supermarketperimeter.com/ext/resources/0722-mangoes.jpg?t=1595428736&width=1080">
+	    <img src="https://img.shields.io/badge/Mangos%20Are%20Fucking%20Poggest-orange?logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAACZ1BMVEVHcEzo5+j////n5ufn5uf////n5ufn5ufo5+jn5ufo5+jo5+jo5+jOzs7Z2Nnv7u/Ix8ji4eLY19jX1tekpKTY19jg3+DNzM3y8fK/wr+wr7Dh4eHJyMnR0dHm5ebZ2dni4eLe3d7Kysr39ffHxsff3t/d3N3e3d7h4OH59/nW1tbKycrT0tPt7O3X1tfOzc7k4+TU1NTn5ufg3+Dg3+De3d7U1NX8+/y6urra2drLysvj4+P39vfi4eL29fbe3d7X1tfq6eqqqqre3d7W1tbi4uIAAADQ0NDPzs/Hxsfg3+DMzMzV1NWxsbHExMTh4OHk4+Tc29y+vr7a2trU09TY19jc29zS0dLj4uO1tbXExMSqqqrT0tPW1dbj4uPR0NHw7/Dc29zm5ebj4uPAv8DR0NHh4OG3t7ff3t/V1NXExMTIx8jo5+jj4uPi4eLi4eLe3d6NjI2joqPY19jS0dLLysupqann5ufg3+DS0dLR0NHZ2Nnp6OnNzM3g4ODj4uPBwMHb2tvc29zb29vv7e+UlJRra2vV1NXm5ebS0dLm5ubi4eLo5+jm5ebj4uPV1dXe3d6goKDj4uPLy8vi4eLh4OHQz9DNzc3Qz9Dm5ebZ2Nny8fLm5ebe3d7KycqMjIzh4OHf3t/X1tfW1dbZ2NnDwsPb2tvT0tPf3t/j4uPEw8StrK3W1dbT0tPk4+Tf3t/My8zg3+Do5+jt7O329fbx8PHu7e708/T49/jw7/Dv7u/n5uf39vfs6+zy8fLp6On19PXz8vPm5ebr6uvm5ubq6er59/n29Pb49vj6+fr39ff5+Pn///9rPuC9AAAAsnRSTlMA/AL6/QH8/v77+v37AgMDAdoCAQoBsAIDAQHEQSf6A+KwAQNCjKSAwAMDM20EVgH+TccDqMBIAhUDNuwDAwKLSAMNw47kAgMCAdFLhRMr5fuYJZZ4VpFu9gEBEipZpQIDuPvpAXkDHdqKMDj5A+r0AwsBhAMCDAPVWV2B/nfm9ySEx8sBEQZ8AmqrqPcD5QWmDugBoqM0Si/9awT8thwM34QGkJQccFrU3EAlUkX22EfWNJVjewAAAfhJREFUeNqE0gO33EAAhuEvnKS2bdu2bdu2bdu2tbGv6vZHdU7Ond2pn+O8SYb4o4si/qvcaVGZVw5/8fjhHaSO4U9EPPr+BDcundy5Dwp4w7s3Vw6JNx/gdVD+WfQ1//Pe4+AsKgvm5RsnKKXrJWL/KLI2ATMn951z4vL9V3gXOyVUQuRT3kEw67B+40L/o+Vanl8+U/Q2sA3D/HLgMOursWKZZwqSTn9c0vELXzy9d+v6hf1HWF+ClWsLVsmEaMSgv9ad53dx7cp5YDNSc7F0jS0ZtBbTv90GtXUGmPkW1+l/BOcqzoLpjdlJKUI7QwzdOgcRWUNG2Cp9mqPJ5pktYMqgvSMQvtOJ5i2YhcrZva+fr7MXstMIG6EqUkPRo1AjGktsFu9roXTapwMDC9gMuCHq1EZFUBtEDHJLsc5Nsl4lpBQstksS7gW2zCZsmbttTf61EyKYXVAm7TvsXazzP3A7o9geh04w5HNIDPlDu5aogJQh/NIJ7YLbCux+bfPpHwjXNUPVPo3K3dbtriDz52gQKTAngbPcKpKKb0p6V/KisSOh1EDO1GlRLJTQVVWlt82Mxk0cjYbgKJgwvmfg5Sd2Ynnx4CljgI7goT/wYxZ6qmLSRhom6g5ODAzmSuhZjdcOTEmCSRsPbLlRX16CFWSbrhaGFADBXQ8i5XVixAAAAABJRU5ErkJggg==&style=for-the-badge&&logoWidth=30" />
+	</a>
+</p>
+#CompilersAreCoolAF
+
+<p align="left">
+I present this dancing shark in trying times.</br>
+    <img width="200" src="dancingshork.gif">
+</p>
+- 😪 I do what I manage to find the time and drive for. (✿◠‿◠) </br>
+- 💪 If it ain't fast and static I don't want it. ( ˘︹˘ ) </br>
+- 🖥️ Specs: AMD Ryzen 2700X, NVIDIA GTX 1080ti, CORSAIR - Vengeance RGB PRO 16GB, Gigabyte X470 AORUS ULTRA GAMING (rev. 1.0) ✍(◔◡◔) </br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waifushork&langs_count=4&theme=radical)](https://github.com/waifushork/github-readme-stats)
+![WaifuShork's github stats](https://github-readme-stats.vercel.app/api?username=WaifuShork&theme=radical&show_icons=true)
