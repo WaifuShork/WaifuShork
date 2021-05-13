@@ -28,5 +28,7 @@ I present this dancing shark in trying times.</br></br>
 - 💪 If it ain't fast and static I don't want it. ( ˘︹˘ ) </br>
 - 🖥️ Specs: AMD Ryzen 2700X, NVIDIA GTX 1080ti, CORSAIR - Vengeance RGB PRO 16GB, Gigabyte X470 AORUS ULTRA GAMING (rev. 1.0) ✍(◔◡◔) </br></br>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0l6y9n15dwzvu9f0j3mos3eay&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waifushork&langs_count=4&theme=radical)](https://github.com/waifushork/github-readme-stats)
 ![WaifuShork's github stats](https://github-readme-stats.vercel.app/api?username=WaifuShork&theme=radical&show_icons=true)
