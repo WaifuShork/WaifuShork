@@ -26,7 +26,7 @@ I present this dancing shark in trying times.</br></br>
 <h1></h1>
 - 😪 I do what I manage to find the time and drive for. (✿◠‿◠) </br>
 - 💪 If it ain't fast and static I don't want it. ( ˘︹˘ ) </br>
-- 🖥️ Specs: AMD Ryzen 2700X, NVIDIA GTX 1080ti, CORSAIR - Vengeance RGB PRO 16GB, Gigabyte X470 AORUS ULTRA GAMING (rev. 1.0) ✍(◔◡◔) </br></br>
+- 🖥️ Specs: AMD Ryzen 2700X, NVIDIA GTX 1080ti, CORSAIR - Vengeance RGB PRO 64GB, Gigabyte X470 AORUS ULTRA GAMING (rev. 1.0) ✍(◔◡◔) </br></br>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0l6y9n15dwzvu9f0j3mos3eay&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
