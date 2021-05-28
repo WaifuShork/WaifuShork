@@ -20,7 +20,7 @@
 </a>
 </p>
 <p align="left">
-I present this dancing shark in trying times.</br></br>
+I present this dancing shark in these trying times.</br></br>
     <img width="200" src="dancingshork.gif">
 </p>
 <h1></h1>
